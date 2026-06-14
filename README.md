@@ -36,8 +36,8 @@ I am a dedicated **Cybersecurity Student** focusing heavily on **Governance, Ris
 
 To boost my search visibility and verify my professional background, let's connect across platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Siju-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-Sebastian_Siju-black?style=for-the-badge&logo=github)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Siju-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastian-siju/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BghwvgafRx6P0lNvmfYKDw%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-Sebastian_Siju-black?style=for-the-badge&logo=github)](https://github.com/sebastiansiju)
 
 ---
 *Thank you for visiting! Feel free to review my repositories or reach out on LinkedIn for professional collaborations.*
